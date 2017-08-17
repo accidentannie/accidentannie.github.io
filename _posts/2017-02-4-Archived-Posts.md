@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 The following are posts from a previous blog. They are in PDF format.
 -[Craiglist](https://www.dropbox.com/s/dxinembhuc2cyyj/craigslist.pdf?dl=0)
