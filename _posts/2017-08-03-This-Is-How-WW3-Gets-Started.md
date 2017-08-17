@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Recently the White House posted this on their Twitter account: 
  <blockquote class="twitter-tweet" data-lang="en"><p lang="es" dir="ltr">America deserves a RAISE. <a href="https://t.co/F6JJFMSkz9">pic.twitter.com/F6JJFMSkz9</a></p>— The White House (@WhiteHouse) <a href="https://twitter.com/WhiteHouse/status/892775255835639808">August 2, 2017</a></blockquote>
@@ -14,4 +14,4 @@ Forbes: [Click here to read the article](http://bit.ly/2upEM6X)
 
 Newsweek: [Click here to read the article](http://bit.ly/2vFKOQG)
 
-A simple Google search can be educational. 
+A simple Google search can be educational.
