@@ -1,8 +1,6 @@
 ---
 published: true
 ---
-## NFL players should strike.
-
 My daughter and I listened to the radio every morning on the way to drop her off at school. She asked me why people were upset about NFL players not standing for the national anthem. I told her: it's our constitutional right as Americans to speak, not speak, stand, not stand, have opinions or not have opinions. I told her that personally, I believed there are other actions to get upset about. I told my daughter that I think people's feelings get misconstrued for fact or what "should be". Their heightened emotional state around the national anthem, (when people do not stand when it is being played), is based on personal experience and their feelings. What these football players did, was exercise their constitutional rights as Americans. Can you imagine if someone berated you for exercising your constitutional rights? 
   
 **Fact: "...the First Amendment also protects citizens from being compelled to say or pay for certain speech. (West Virginia State Board of Education v. Barnette, (1943))".** 
