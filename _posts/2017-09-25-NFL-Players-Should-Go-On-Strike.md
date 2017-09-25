@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## NFL players should strike.
 
@@ -13,4 +13,4 @@ _"American citizens are being oppressed. American citizens' rights are being vio
   
 How people are treated is based in reality and is not escapable nor should be acceptable. When you choose to ignore your fellow countrymen, it doesn't affect a few, it affects all of us as a nation. How we treat our citizens in our own country is parallel to how we operate as a country. Our dysfunctions as a country (no matter how important or unimportant), weakens our input as American on a global stage. Our dismissiveness to the plight of our own people lowers our status to other nations, disrupts our economy, halts infrastructure changes, and causes educational setbacks for our children. 
   
-In-fighting within our nation only proves how weak we are as a nation. We are not the most powerful country in the world if we tread on our most oppressed patriots.  
+In-fighting within our nation only proves how weak we are as a nation. We are not the most powerful country in the world if we tread on our most oppressed patriots.
